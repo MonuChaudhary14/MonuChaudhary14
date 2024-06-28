@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**MonuChaudhary14/MonuChaudhary14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MasterHead](GitHeade.gif)
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=4000&color=ef873e&center=true&vCenter=true&width=435&lines=Hey..+I'm+Monu+Chaudhary;Welcome+to.my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+<h2>GitHub Stats:</h2> 
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=MonuChaudhary14&show_icons=false&theme=dark&locale=en" alt="" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MonuChaudhary14&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /></td>
+    <td> <img src="https://streak-stats.demolab.com?user=MonuChaudhary14&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  /></td>
+  </tr>
+</table>
+
+
+###
+<h2>My Skills:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,express,mongodb,jquery,js,java,cpp,py,bootstrap,css,git,github,vercel,vite,npm,yarn,postman,codepen,mysql,replit,vscode,androidstudio,idea,linux,html,tailwind,htmx,figma,materialui&theme=light)](https://skillicons.dev)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MonuChaudhary14&theme=darkhub&margin-w=15&title=Repositories,Commits,Experience,Stars,Followers,PullRequest&no-bg=true" alt="" /></a> </p>
+
+###
+<img align="left" src="https://profile-counter.glitch.me/MonuChaudhary14/count.svg?"  /><br><br>
+
