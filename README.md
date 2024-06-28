@@ -22,7 +22,7 @@
 ###
 <h2>My Skills:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,express,mongodb,jquery,js,java,cpp,py,bootstrap,css,git,github,vercel,vite,npm,yarn,postman,codepen,mysql,replit,vscode,androidstudio,idea,linux,html,tailwind,htmx,figma,materialui&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,cpp,py,bootstrap,css,git,github,replit,vscode,linux,html,figma,materialui&theme=light)](https://skillicons.dev)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MonuChaudhary14&theme=darkhub&margin-w=15&title=Repositories,Commits,Experience,Stars,Followers,PullRequest&no-bg=true" alt="" /></a> </p>
 
