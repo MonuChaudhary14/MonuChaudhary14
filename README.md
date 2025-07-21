@@ -49,14 +49,6 @@
 
 ---
 
-## 🔢 Profile Views Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/MonuChaudhary14/count.svg?" alt="Profile Views Counter" />
-</p>
-
----
-
 ### ✨ Thank you for visiting my profile!
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
