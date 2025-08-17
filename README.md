@@ -22,7 +22,7 @@
 
 ## 🧰 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,js,react,nodejs,express,git,github,vscode,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,js,git,github,vscode)](https://skillicons.dev)
 
 ---
 
