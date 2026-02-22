@@ -1,10 +1,12 @@
-<!-- Header GIF -->
+<!-- ================= HEADER GIF ================= -->
+
 ![MasterHead](GitHeade.gif)
 
-<!-- Typing SVG Intro -->
+<!-- ================= TYPING INTRO ================= -->
+
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=25&duration=4000&color=EF873E&center=true&vCenter=true&width=435&lines=Hey..+I'm+Monu+Chaudhary;Welcome+to+my+GitHub!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey..+I'm+Monu+Chaudhary;Backend+Developer+%7C+Open+Source+Contributor;Spring+Boot+%7C+PostgreSQL+%7C+MongoDB;Building+Scalable+Real-Time+Systems;" />
   </h1>
 </div>
 
@@ -12,44 +14,135 @@
 
 ## 👨‍💻 About Me:
 
-- 🔭 I’m currently learning **Full Stack Development**
-- 🌱 Passionate about **DSA, Web Development, and Open Source**
-- 📚 Always eager to **learn new technologies**
-- 🧠 Currently improving my **Java**, **Frontend**, and **Backend** skills
-- 📫 Reach me at: monuchaudharypoonia@gmail.com
+- 🚀 Backend Developer & Open Source Contributor (Major Focus)
+- 🌱 Currently learning **Advanced System Design & Cloud Architecture**
+- 🧠 Passionate about **Scalable Backend Systems & Real-Time Applications**
+- 🔥 Contributor in **Checkstyle, OpenRewrite & Sevntu**
+- ⚙️ Strong in **Spring Boot, PostgreSQL, MongoDB, WebSockets**
+- ☁️ Working with **Docker, AWS, Linux & Nginx**
+- 🤝 Open to Collaboration
+- 📫 Reach me at: **monuchaudharypoonia@gmail.com**
+
+---
+
+## 🌍 Open Source Contributions
+
+- 🛠 **Checkstyle** – Java Static Code Analysis  
+- 🔁 **OpenRewrite** – Automated Code Refactoring  
+- 📦 **Sevntu Checkstyle** – Advanced Static Rules  
+
+**Focus Areas:**
+- Mutation Testing  
+- Code Quality Improvements  
+- Static Analysis Enhancements  
+- Rule Development  
+
+---
+
+## 🚀 Featured Projects
+
+### 🌌 SpaceHub Backend
+> Discord-inspired backend system with real-time communication & voice integration.
+
+**Features:**
+- Community & Channel Management  
+- WebSocket-based Chat  
+- Voice Call Integration (Janus)  
+- PostgreSQL Persistence  
+- AWS Deployment  
+
+**Tech Stack:**  
+`Spring Boot` `PostgreSQL` `AWS` `WebSockets` `Janus`
+
+🔗 https://github.com/MonuChaudhary14/SpaceHub-Backend
+
+---
+
+### 🏥 VitalUp Backend
+> Health-tech backend with AI integration & secure real-time chat.
+
+**Features:**
+- Medical Data Handling  
+- Real-time Chat  
+- AI Integration  
+- Secure REST APIs  
+- Cloud Deployment  
+
+**Tech Stack:**  
+`Spring Boot` `PostgreSQL` `AWS` `WebSockets`
+
+🔗 https://github.com/MonuChaudhary14/VitalUp
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,html,css,js,git,github,vscode)](https://skillicons.dev)
+### 👨‍💻 Languages
+[![Languages](https://skillicons.dev/icons?i=java,cpp,c,python)](https://skillicons.dev)
+
+### 🚀 Backend & Database
+[![Backend](https://skillicons.dev/icons?i=spring,postgres,mongodb)](https://skillicons.dev)
+
+### 🌐 Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+### ☁ DevOps & Tools
+[![Tools](https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,postman,idea,vscode)](https://skillicons.dev)
+
+---
+
+## 🧠 Currently Learning
+
+- Distributed Systems  
+- Advanced System Design  
+- Cloud Infrastructure (AWS Deep Dive)  
+- Backend Performance Optimization  
+
+---
+
+## 🏆 Competitive Coding
+
+- 🧠 LeetCode  
+- 🏅 CodeChef  
+- ⚡ Codeforces  
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=MonuChaudhary14&show_icons=true&theme=tokyonight&hide_border=true" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuChaudhary14&layout=compact&theme=tokyonight&hide_border=true" /></td>
-    </tr>
-  </table>
 
-  <img src="https://streak-stats.demolab.com?user=MonuChaudhary14&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MonuChaudhary14&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuChaudhary14&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img src="https://streak-stats.demolab.com?user=MonuChaudhary14&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MonuChaudhary14&theme=tokyonight&title=Repositories,Commits,Stars,Followers,PullRequest,Issues&margin-w=15&no-bg=true&no-frame=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MonuChaudhary14&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+## 🧭 Dev Philosophy
+
+> “Build scalable systems. Write clean code. Contribute to something bigger than yourself.”
+
+- Backend should be reliable & testable  
+- Open source sharpens engineering thinking  
+- Continuous learning > comfort zone  
+- Curiosity drives mastery  
 
 ---
 
 ### ✨ Thank you for visiting my profile!
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
-> Let's connect, build, and grow together 🚀
+> *“First, solve the problem. Then, write the code.”*  
+
+🚀 Let’s connect, collaborate, and build impactful systems together.
